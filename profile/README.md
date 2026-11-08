@@ -1,12 +1,22 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/collaborative-brick-layout-designer/web/main/logo.png" alt="Collaborative Brick Layout Designer logo" width="96" height="96">
+  <img src="https://raw.githubusercontent.com/collaborative-brick-layout-designer/.github/main/profile/logo.png" alt="Collaborative Brick Layout Designer logo" width="96" height="96">
 </p>
 
 # Collaborative Brick Layout Designer
 
 Open-source tools for planning LEGO train and town layouts, from solo planning to a whole club editing the same layout at once. There's a desktop app and a self-hosted web app, and they share the same layouts, accounts and files.
 
-> **Made with AI.** Almost every line of code here was written by an AI coding assistant (Anthropic's Claude, through Claude Code), directed and reviewed by a person. Every change goes through automated tests, and BlueBrick `.bbm` files round-trip byte for byte, but expect rough edges. Keep backups of layouts you care about, and please [report anything that's wrong](https://github.com/collaborative-brick-layout-designer/desktop/issues).
+![The desktop app with a town layout: track, roads, buildings and labels, the parts library beside it](https://raw.githubusercontent.com/collaborative-brick-layout-designer/.github/main/profile/desktop-editor-dark.png)
+
+*The desktop app: a town layout with track, roads and buildings, and the parts library beside it.* [View in light mode](https://github.com/collaborative-brick-layout-designer/.github/blob/main/profile/desktop-editor-light.png)
+
+![The same layout in the web app's editor](https://raw.githubusercontent.com/collaborative-brick-layout-designer/.github/main/profile/web-editor-dark.png)
+
+*The web app: the same layout in the browser, ready to edit with your club.* [View in light mode](https://github.com/collaborative-brick-layout-designer/.github/blob/main/profile/web-editor-light.png)
+
+![The venue designer in the web app](https://raw.githubusercontent.com/collaborative-brick-layout-designer/.github/main/profile/web-venue-dark.png)
+
+*Venues: draw the hall, then get warned when track comes too close to a wall or a walkway.* [View in light mode](https://github.com/collaborative-brick-layout-designer/.github/blob/main/profile/web-venue-light.png)
 
 ---
 
