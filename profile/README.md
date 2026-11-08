@@ -6,6 +6,15 @@
 
 Open-source tools for planning LEGO train and town layouts, from solo planning to a whole club editing the same layout at once. There's a desktop app and a self-hosted web app, and they share the same layouts, accounts and files.
 
+![The desktop app with a club show layout, the parts library and sheets beside it](https://raw.githubusercontent.com/collaborative-brick-layout-designer/.github/main/profile/desktop-editor.png)
+*The desktop app: a club show layout on its tables, with the parts library beside it.*
+
+![The same layout in the web app's editor](https://raw.githubusercontent.com/collaborative-brick-layout-designer/.github/main/profile/web-editor.png)
+*The web app: the same layout in the browser, ready to edit with your club.*
+
+![A layout inside its venue in the web app](https://raw.githubusercontent.com/collaborative-brick-layout-designer/.github/main/profile/web-venue.png)
+*Venues: draw the hall, and get warned when track comes too close to a wall or a walkway.*
+
 > **Made with AI.** Almost every line of code here was written by an AI coding assistant (Anthropic's Claude, through Claude Code), directed and reviewed by a person. Every change goes through automated tests, and BlueBrick `.bbm` files round-trip byte for byte, but expect rough edges. Keep backups of layouts you care about, and please [report anything that's wrong](https://github.com/collaborative-brick-layout-designer/desktop/issues).
 
 ---
