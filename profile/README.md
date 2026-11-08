@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/collaborative-brick-layout-designer/web/main/logo.png" alt="Collaborative Brick Layout Designer logo" width="96" height="96">
+  <img src="https://raw.githubusercontent.com/collaborative-brick-layout-designer/.github/main/profile/logo.png" alt="Collaborative Brick Layout Designer logo" width="96" height="96">
 </p>
 
 # Collaborative Brick Layout Designer
