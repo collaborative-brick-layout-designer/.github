@@ -18,6 +18,10 @@ Open-source tools for planning LEGO train and town layouts, from solo planning t
 
 *Venues: draw the hall, then get warned when track comes too close to a wall or a walkway.* [View in light mode](https://github.com/collaborative-brick-layout-designer/.github/blob/main/profile/web-venue-light.png)
 
+## Try it online
+
+**[collab.aronwk.com](https://collab.aronwk.com)** is the project's own instance, hosted by the maintainer. To look around without signing up, click **Try the demo** on the sign-in page. You get a private demo space with sample layouts, cleared at each demo reset.
+
 ---
 
 ## Projects
